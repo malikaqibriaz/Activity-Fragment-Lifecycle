@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\csnum\.android\avd\Pixel_3a_API_30_x86.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-16T09:10:00.552121700Z" />
+          <targetsSelectedWithDialog>
+            <Target>
+              <type value="BOOT_WITH_SNAPSHOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\csnum\.android\avd\Pixel_7_Pro_API_31.avd" />
+                </Key>
+              </deviceKey>
+              <snapshotKey value="C:\Users\csnum\.android\avd\Pixel_7_Pro_API_31.avd\snapshots\snap_2024-03-13_14-46-12" />
+            </Target>
+          </targetsSelectedWithDialog>
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>
